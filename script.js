@@ -1,1 +1,3 @@
-/*Add your JavaScript here*/
+var morningScore;
+var nightScore;
+var questionCount;

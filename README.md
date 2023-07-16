@@ -1,4 +1,4 @@
-# Personality Quiz Starter Code
+# Personality Quiz Code
 
 This is a personality quiz website that I made for the Girls Who Code Self-Paced Program.
 

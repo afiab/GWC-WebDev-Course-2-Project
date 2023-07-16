@@ -48,11 +48,11 @@ function morning() {
 
 function updateResult() {
   if (morningScore >= 2) {
-    result.innerHTML = "You are a morning person!";
+    result.innerHTML = "You're a morning person!";
     restart.innerHTML = "Restart"
     console.log("You are a morning person!");
   } else if (nightScore >= 2) {
-    result.innerHTML = "You are a night person!";
+    result.innerHTML = "You're a night person!";
     restart.innerHTML = "Restart"
     console.log("You are a night person!");
   }

@@ -37,4 +37,7 @@ h2 {
 /* STYLE BUTTON */
 button { 
   margin-top: 5px;
+  border: 1px solid #2B2240;
+  color: #2B2240;
+  background-color: white;
 }
